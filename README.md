@@ -19,8 +19,8 @@ Have the following installed:
 
 ---
 ## **Cloning the Github Repository**
-git clone <repository-url>
-cd lumaa-spring-2025-swe
+- git clone <repository-url>
+- cd lumaa-spring-2025-swe
 
 ## **Setting Up the Database**
 
@@ -119,5 +119,5 @@ npm test
 $20-25 an hour for a part time internship position. I am open to negotiating the salary depending on internship expectations and other career and learning opportunities.
 
 ## **Personal Information**
-Email: Sammedina4235@gmail.com
-Linkedin: https://www.linkedin.com/in/samantha-medina-515243346/
+- Email: Sammedina4235@gmail.com
+- Linkedin: https://www.linkedin.com/in/samantha-medina-515243346/
