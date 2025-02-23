@@ -19,8 +19,14 @@ Have the following installed:
 
 ---
 ## **Cloning the Github Repository**
-- git clone <repository-url>
-- cd lumaa-spring-2025-swe
+```
+git clone <repository-url>
+```
+
+```
+cd lumaa-spring-2025-swe
+```
+
 
 ## **Setting Up the Database**
 
